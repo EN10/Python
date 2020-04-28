@@ -1,4 +1,4 @@
-##Pickle allows you to save any object in python to a file and maintain the format
+##Pickle allows objects to be saved to a file and maintain format
 
 thislist = ["apple", "banana", "cherry"]
 
